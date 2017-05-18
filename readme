@@ -7,4 +7,6 @@ INSTALLATION DIRECTION
 -Install tcl math library for mathematical operations in the code
 	-Untar Tcllib-1.16.tar.gz
 	-In the untar directory just run ‘tclsh installer.tcl’ to install the tcl libraries.
-
+	
+- TCL NAP : FOR N-dimentional array processor
+	http://tcl-nap.sourceforge.net/
